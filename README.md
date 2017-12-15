@@ -21,12 +21,27 @@ DIRECTORY STRUCTURE
       web/                contains the entry script and Web resources
 
 
+RECURSOS
+------------
+Link de diapositivas
+
+[Diapositivas](https://mega.nz/#!aMxUFT7S!eoKgfuTfY80jKA2hxzUEbhcNaMIB6UDPPAdjxm0Qd8Y)
+
+
 
 REQUERIMIENTOS
 ------------
 
 El requerimiento minimo es PHP 7.0
 
+~~~
+php -v
+~~~
+
+Tener instalado composer
+~~~
+composer -v
+~~~
 
 INSTALACIÓN
 ------------
